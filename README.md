@@ -1,4 +1,9 @@
 # Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT-Hackintosh
+
+Nao sei porque, mas as portas usb 5 e 6, bem como as 1 e 2, funcionam bem, as outras não.
+Testado e a funcionar, em 31 de maio 2022, com bigsur, num lenovo M900 (10FG)
+____________________________________________________________________________________________
+
 EFI for Lenovo-M900q-M8600q-M700-M6600q-QHPW-AMT with OpenCore 0.8.0 bootloader  
 
 ### Computer Spec:
